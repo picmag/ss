@@ -1,53 +1,53 @@
 [{
 	"value": "cat",
-	"url": "https://github.com/picmag/ss/raw/main/cat.png",
+	"url": "https://raw.githubusercontent.com/picmag/ss/main/cat.png",
 	"displayName": "گربه"
 }, {
 	"value": "food",
-	"url": "https://github.com/picmag/ss/raw/main/dish.png",
+	"url": "https://raw.githubusercontent.com/picmag/ss/main/dish.png",
 	"displayName": "غذا"
 }, {
 	"value": "dog",
-	"url": "https://github.com/picmag/ss/raw/main/dog.png",
+	"url": "https://raw.githubusercontent.com/picmag/ss/main/dog.png",
 	"displayName": "سگ"
 }, {
 	"value": "elephant",
-	"url": "https://github.com/picmag/ss/raw/main/elephant.png",
+	"url": "https://raw.githubusercontent.com/picmag/ss/main/elephant.png",
 	"displayName": "فیل"
 }, {
 	"value": "love",
-	"url": "https://github.com/picmag/ss/raw/main/heart.png",
+	"url": "https://raw.githubusercontent.com/picmag/ss/main/heart.png",
 	"displayName": "عشق"
 }, {
 	"value": "flower",
-	"url": "https://github.com/picmag/ss/raw/main/hibiscus.png",
+	"url": "https://raw.githubusercontent.com/picmag/ss/main/hibiscus.png",
 	"displayName": "گل"
 }, {
 	"value": "meme",
-	"url": "https://github.com/picmag/ss/raw/main/meme.png",
+	"url": "https://raw.githubusercontent.com/picmag/ss/main/meme.png",
 	"displayName": "Meme"
 }, {
 	"value": "animal",
-	"url": "https://github.com/picmag/ss/raw/main/monkey.png",
+	"url": "https://raw.githubusercontent.com/picmag/ss/main/monkey.png",
 	"displayName": "حیوون"
 }, {
 	"value": "panda",
-	"url": "https://github.com/picmag/ss/raw/main/panda.png",
+	"url": "https://raw.githubusercontent.com/picmag/ss/main/panda.png",
 	"displayName": "پاندا"
 }, {
 	"value": "plant",
-	"url": "https://github.com/picmag/ss/raw/main/plant.png",
+	"url": "https://raw.githubusercontent.com/picmag/ss/main/plant.png",
 	"displayName": "گیاه"
 }, {
 	"value": "politics",
-	"url": "https://github.com/picmag/ss/raw/main/politician.png",
+	"url": "https://raw.githubusercontent.com/picmag/ss/main/politician.png",
 	"displayName": "سیاسی"
 }, {
 	"value": "emoji",
-	"url": "https://github.com/picmag/ss/raw/main/smile.png",
+	"url": "https://raw.githubusercontent.com/picmag/ss/main/smile.png",
 	"displayName": "ایموجی"
 }, {
 	"value": "film",
-	"url": "https://github.com/picmag/ss/raw/main/vidiso.png",
+	"url": "https://raw.githubusercontent.com/picmag/ss/main/vidiso.png",
 	"displayName": "فیلم"
 }]
