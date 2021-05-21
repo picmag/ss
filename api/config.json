@@ -1,0 +1,15 @@
+{
+	"paymentConfig": [{
+			"coinCount": 5,
+			"price": 1000
+		},
+		{
+			"coinCount": 12,
+			"price": 2000
+		},
+		{
+			"coinCount": 40,
+			"price": 5000
+		}
+	]
+}
