@@ -1,18 +1,18 @@
 {
 	"paymentConfig": [{
-			"coinCount": 5,
+			"coinCount": 3,
 			"price": 1000,
-	        "paymentId":"id1"
+			"paymentId": "coinPack1"
 		},
 		{
-			"coinCount": 12,
+			"coinCount": 8,
 			"price": 2000,
-	        "paymentId":"id2"
+			"paymentId": "coinPack2"
 		},
 		{
-			"coinCount": 40,
+			"coinCount": 20,
 			"price": 5000,
-	        "paymentId":"id3"
+			"paymentId": "coinPack3"
 		}
 	]
 }
