@@ -1,18 +1,25 @@
 {
-	"paymentConfig": [{
-			"coinCount": 3,
-			"price": 1000,
-			"paymentId": "coinPack1"
-		},
-		{
-			"coinCount": 8,
-			"price": 2000,
-			"paymentId": "coinPack2"
-		},
-		{
-			"coinCount": 20,
-			"price": 5000,
-			"paymentId": "coinPack3"
-		}
-	]
+"paymentConfig": [
+	{
+		"id": "coinPack3",
+		"coinCount": 3,
+		"priceBeforeDiscount": 1500,
+		"price": 1000,
+		"bazaarPayId": "coinPack3"
+	},
+	{
+		"paymentId": "coinPack8",
+		"coinCount": 8,
+		"priceBeforeDiscount": 3000,
+		"price": 2000,
+		"bazaarPayId": "coinPack8"
+	},
+	{
+		"paymentId": "coinPack20",
+		"coinCount": 20,
+		"priceBeforeDiscount": 7500,
+		"price": 5000,
+		"bazaarPayId": "coinPack20"
+	}
+]
 }
