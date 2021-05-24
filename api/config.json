@@ -5,21 +5,21 @@
 		"coinCount": 3,
 		"priceBeforeDiscount": 1500,
 		"price": 1000,
-		"bazaarSKU": "coinPack3"
+		"bazaarProductId": "coinPack3"
 	},
 	{
 		"paymentId": "coinPack8",
 		"coinCount": 8,
 		"priceBeforeDiscount": 3000,
 		"price": 2000,
-		"bazaarSKU": "coinPack8"
+		"bazaarProductId": "coinPack8"
 	},
 	{
 		"paymentId": "coinPack20",
 		"coinCount": 20,
 		"priceBeforeDiscount": 7500,
 		"price": 5000,
-		"bazaarSKU": "coinPack20"
+		"bazaarProductId": "coinPack20"
 	}
 ]
 }
