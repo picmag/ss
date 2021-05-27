@@ -1,53 +1,53 @@
 [{
 	"value": "cat",
-	"url": "https://raw.githubusercontent.com/picmag/ss/main/cat.png",
+	"url": "https://raw.githubusercontent.com/picmag/ss/main/files/category/cat.png",
 	"displayName": "گربه"
 }, {
 	"value": "food",
-	"url": "https://raw.githubusercontent.com/picmag/ss/main/dish.png",
+	"url": "https://raw.githubusercontent.com/picmag/ss/main/files/category/dish.png",
 	"displayName": "غذا"
 }, {
 	"value": "dog",
-	"url": "https://raw.githubusercontent.com/picmag/ss/main/dog.png",
+	"url": "https://raw.githubusercontent.com/picmag/ss/main/files/category/dog.png",
 	"displayName": "سگ"
 }, {
 	"value": "elephant",
-	"url": "https://raw.githubusercontent.com/picmag/ss/main/elephant.png",
+	"url": "https://raw.githubusercontent.com/picmag/ss/main/files/category/elephant.png",
 	"displayName": "فیل"
 }, {
 	"value": "love",
-	"url": "https://raw.githubusercontent.com/picmag/ss/main/heart.png",
+	"url": "https://raw.githubusercontent.com/picmag/ss/main/files/category/heart.png",
 	"displayName": "عشق"
 }, {
 	"value": "flower",
-	"url": "https://raw.githubusercontent.com/picmag/ss/main/hibiscus.png",
+	"url": "https://raw.githubusercontent.com/picmag/ss/main/files/category/hibiscus.png",
 	"displayName": "گل"
 }, {
 	"value": "meme",
-	"url": "https://raw.githubusercontent.com/picmag/ss/main/meme.png",
+	"url": "https://raw.githubusercontent.com/picmag/ss/main/files/category/meme.png",
 	"displayName": "Meme"
 }, {
 	"value": "animal",
-	"url": "https://raw.githubusercontent.com/picmag/ss/main/monkey.png",
+	"url": "https://raw.githubusercontent.com/picmag/ss/main/files/category/monkey.png",
 	"displayName": "حیوون"
 }, {
 	"value": "panda",
-	"url": "https://raw.githubusercontent.com/picmag/ss/main/panda.png",
+	"url": "https://raw.githubusercontent.com/picmag/ss/main/files/category/panda.png",
 	"displayName": "پاندا"
 }, {
 	"value": "plant",
-	"url": "https://raw.githubusercontent.com/picmag/ss/main/plant.png",
+	"url": "https://raw.githubusercontent.com/picmag/ss/main/files/category/plant.png",
 	"displayName": "گیاه"
 }, {
 	"value": "politics",
-	"url": "https://raw.githubusercontent.com/picmag/ss/main/politician.png",
+	"url": "https://raw.githubusercontent.com/picmag/ss/main/files/category/politician.png",
 	"displayName": "سیاسی"
 }, {
 	"value": "emoji",
-	"url": "https://raw.githubusercontent.com/picmag/ss/main/smile.png",
+	"url": "https://raw.githubusercontent.com/picmag/ss/main/files/category/smile.png",
 	"displayName": "ایموجی"
 }, {
 	"value": "film",
-	"url": "https://raw.githubusercontent.com/picmag/ss/main/video-player.png",
+	"url": "https://raw.githubusercontent.com/picmag/ss/main/files/category/video-player.png",
 	"displayName": "فیلم"
 }]
