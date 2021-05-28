@@ -2,6 +2,7 @@
 "paymentConfig": [
 	{
 		"id": "coinPack3",
+		"type": "Coin",
 		"coinCount": 3,
 		"priceBeforeDiscount": 1500,
 		"price": 1000,
@@ -10,6 +11,7 @@
 	},
 	{
 		"paymentId": "coinPack8",
+		"type": "Coin",
 		"coinCount": 8,
 		"priceBeforeDiscount": 3000,
 		"price": 2000,
@@ -19,11 +21,21 @@
 	},
 	{
 		"paymentId": "coinPack20",
+		"type": "Coin",
 		"coinCount": 20,
 		"priceBeforeDiscount": 7500,
 		"price": 5000,
 		"bazaarProductId": "coinPack20",
 		"image": "https://raw.githubusercontent.com/picmag/ss/main/files/coin/coin5.png"
+	},
+	{
+		"paymentId": "subscription365",
+		"type": "Infinity",
+		"days": 365,
+		"priceBeforeDiscount": 15000,
+		"price": 10000,
+		"bazaarProductId": "subscription365",
+		"image": "https://raw.githubusercontent.com/picmag/ss/main/files/coin/infinity.png"
 	}
 ]
 }
