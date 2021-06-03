@@ -1,5 +1,5 @@
 {
-"subscription":[
+"subscription":
 	{
 		"paymentId": "subscription365",
 		"type": "Infinity",
@@ -8,8 +8,7 @@
 		"price": 10000,
 		"bazaarProductId": "subscription365",
 		"image": "https://raw.githubusercontent.com/picmag/ss/main/files/coin/infinity.png"
-	}
-],
+	},
 "paymentConfig": [
 	{
 		"id": "coinPack3",
