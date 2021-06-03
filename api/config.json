@@ -27,15 +27,6 @@
 		"price": 5000,
 		"bazaarProductId": "coinPack20",
 		"image": "https://raw.githubusercontent.com/picmag/ss/main/files/coin/coin5.png"
-	},
-	{
-		"paymentId": "subscription365",
-		"type": "Infinity",
-		"days": 365,
-		"priceBeforeDiscount": 15000,
-		"price": 10000,
-		"bazaarProductId": "subscription365",
-		"image": "https://raw.githubusercontent.com/picmag/ss/main/files/coin/infinity.png"
 	}
 ]
 }
