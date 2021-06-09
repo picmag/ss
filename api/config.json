@@ -39,4 +39,6 @@
 		"image": "https://raw.githubusercontent.com/picmag/ss/main/files/coin/coin5.png"
 	}
 ]
+  ,
+  "blackList":[2224,2182,2134]
 }
